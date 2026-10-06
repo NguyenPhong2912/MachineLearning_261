@@ -44,7 +44,7 @@ LabXX/
 | Tuần | Lab | Chủ đề | Notebook | Bài tập | README | Ảnh kết quả | Nộp |
 |:---:|---|---|:---:|:---:|:---:|:---:|:---:|
 | 1 | [Lab01](Lab01/) | Hồi quy tuyến tính | [x] | [x] | [x] | [ ] | [x] |
-| 2 | [Lab02](Lab02/) | Hồi quy logistic | [x] | [x] | [x] | [ ] | [x] |
+| 2 | [Lab02](Lab02/) | Hồi quy logistic | [x] | [x] | [x] | [x] | [x] |
 | 3 | [Lab03](Lab03/) | _(cập nhật khi có đề)_ | [ ] | [ ] | [ ] | [ ] | [ ] |
 | 4 | [Lab04](Lab04/) | _(cập nhật khi có đề)_ | [ ] | [ ] | [ ] | [ ] | [ ] |
 | 5 | [Lab05](Lab05/) | _(cập nhật khi có đề)_ | [ ] | [ ] | [ ] | [ ] | [ ] |
