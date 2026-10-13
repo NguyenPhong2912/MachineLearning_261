@@ -16,7 +16,7 @@ MachineLearning_261/
 ├── README.md          # Tệp này: thông tin chung + tiến độ theo tuần
 ├── Lab01/             # Bài 1 — Hồi quy tuyến tính
 ├── Lab02/             # Bài 2 — Hồi quy logistic
-├── Lab03/
+├── Lab03/             # Bài 3 — Naive Bayes
 ├── Lab04/
 ├── Lab05/
 ├── Lab06/
@@ -45,7 +45,7 @@ LabXX/
 |:---:|---|---|:---:|:---:|:---:|:---:|:---:|
 | 1 | [Lab01](Lab01/) | Hồi quy tuyến tính | [x] | [x] | [x] | [ ] | [x] |
 | 2 | [Lab02](Lab02/) | Hồi quy logistic | [x] | [x] | [x] | [x] | [x] |
-| 3 | [Lab03](Lab03/) | _(cập nhật khi có đề)_ | [ ] | [ ] | [ ] | [ ] | [ ] |
+| 3 | [Lab03](Lab03/) | Naive Bayes | [x] | [x] | [x] | [ ] | [x] |
 | 4 | [Lab04](Lab04/) | _(cập nhật khi có đề)_ | [ ] | [ ] | [ ] | [ ] | [ ] |
 | 5 | [Lab05](Lab05/) | _(cập nhật khi có đề)_ | [ ] | [ ] | [ ] | [ ] | [ ] |
 | 6 | [Lab06](Lab06/) | _(cập nhật khi có đề)_ | [ ] | [ ] | [ ] | [ ] | [ ] |
