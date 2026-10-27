@@ -17,8 +17,8 @@ MachineLearning_261/
 ├── Lab01/             # Bài 1 — Hồi quy tuyến tính
 ├── Lab02/             # Bài 2 — Hồi quy logistic
 ├── Lab03/             # Bài 3 — Naive Bayes
-├── Lab04/
-├── Lab05/
+├── Lab04/             # Bài 4 — K láng giềng gần nhất
+├── Lab05/             # Bài 5 — Cây quyết định và Rừng ngẫu nhiên
 ├── Lab06/
 ├── Lab07/
 ├── Lab08/
@@ -46,8 +46,8 @@ LabXX/
 | 1 | [Lab01](Lab01/) | Hồi quy tuyến tính | [x] | [x] | [x] | [ ] | [x] |
 | 2 | [Lab02](Lab02/) | Hồi quy logistic | [x] | [x] | [x] | [x] | [x] |
 | 3 | [Lab03](Lab03/) | Naive Bayes | [x] | [x] | [x] | [ ] | [x] |
-| 4 | [Lab04](Lab04/) | _(cập nhật khi có đề)_ | [ ] | [ ] | [ ] | [ ] | [ ] |
-| 5 | [Lab05](Lab05/) | _(cập nhật khi có đề)_ | [ ] | [ ] | [ ] | [ ] | [ ] |
+| 4 | [Lab04](Lab04/) | K láng giềng gần nhất | [x] | [x] | [x] | [ ] | [x] |
+| 5 | [Lab05](Lab05/) | Cây quyết định và Rừng ngẫu nhiên | [x] | [x] | [x] | [ ] | [x] |
 | 6 | [Lab06](Lab06/) | _(cập nhật khi có đề)_ | [ ] | [ ] | [ ] | [ ] | [ ] |
 | 7 | [Lab07](Lab07/) | _(cập nhật khi có đề)_ | [ ] | [ ] | [ ] | [ ] | [ ] |
 | 8 | [Lab08](Lab08/) | _(cập nhật khi có đề)_ | [ ] | [ ] | [ ] | [ ] | [ ] |
