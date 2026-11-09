@@ -20,9 +20,9 @@ MachineLearning_261/
 ├── Lab04/             # Bài 4 — K láng giềng gần nhất
 ├── Lab05/             # Bài 5 — Cây quyết định và Rừng ngẫu nhiên
 ├── Lab06/
-├── Lab07/
-├── Lab08/
-├── Lab09/
+├── Lab07/             # Bài 7 — Đánh giá mô hình
+├── Lab08/             # Bài 8 — Phân cụm K-Means
+├── Lab09/             # Bài 9 — Mạng nơ-ron nhiều lớp (MLP)
 └── Lab10/
 ```
 
@@ -49,9 +49,9 @@ LabXX/
 | 4 | [Lab04](Lab04/) | K láng giềng gần nhất | [x] | [x] | [x] | [ ] | [x] |
 | 5 | [Lab05](Lab05/) | Cây quyết định và Rừng ngẫu nhiên | [x] | [x] | [x] | [ ] | [x] |
 | 6 | [Lab06](Lab06/) | _(cập nhật khi có đề)_ | [ ] | [ ] | [ ] | [ ] | [ ] |
-| 7 | [Lab07](Lab07/) | _(cập nhật khi có đề)_ | [ ] | [ ] | [ ] | [ ] | [ ] |
-| 8 | [Lab08](Lab08/) | _(cập nhật khi có đề)_ | [ ] | [ ] | [ ] | [ ] | [ ] |
-| 9 | [Lab09](Lab09/) | _(cập nhật khi có đề)_ | [ ] | [ ] | [ ] | [ ] | [ ] |
+| 7 | [Lab07](Lab07/) | Đánh giá mô hình | [x] | [x] | [x] | [ ] | [x] |
+| 8 | [Lab08](Lab08/) | Phân cụm K-Means | [x] | [x] | [x] | [ ] | [x] |
+| 9 | [Lab09](Lab09/) | Mạng nơ-ron nhiều lớp (MLP) | [x] | [x] | [x] | [ ] | [x] |
 | 10 | [Lab10](Lab10/) | _(cập nhật khi có đề)_ | [ ] | [ ] | [ ] | [ ] | [ ] |
 
 Checklist chi tiết của từng tuần nằm ở cuối `README.md` trong thư mục lab tương ứng.
