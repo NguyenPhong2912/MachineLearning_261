@@ -19,7 +19,7 @@ MachineLearning_261/
 ├── Lab03/             # Bài 3 — Naive Bayes
 ├── Lab04/             # Bài 4 — K láng giềng gần nhất
 ├── Lab05/             # Bài 5 — Cây quyết định và Rừng ngẫu nhiên
-├── Lab06/
+├── Lab06/             # Bài 6 — Máy vectơ hỗ trợ (SVM)
 ├── Lab07/             # Bài 7 — Đánh giá mô hình
 ├── Lab08/             # Bài 8 — Phân cụm K-Means
 ├── Lab09/             # Bài 9 — Mạng nơ-ron nhiều lớp (MLP)
@@ -48,7 +48,7 @@ LabXX/
 | 3 | [Lab03](Lab03/) | Naive Bayes | [x] | [x] | [x] | [ ] | [x] |
 | 4 | [Lab04](Lab04/) | K láng giềng gần nhất | [x] | [x] | [x] | [ ] | [x] |
 | 5 | [Lab05](Lab05/) | Cây quyết định và Rừng ngẫu nhiên | [x] | [x] | [x] | [ ] | [x] |
-| 6 | [Lab06](Lab06/) | _(cập nhật khi có đề)_ | [ ] | [ ] | [ ] | [ ] | [ ] |
+| 6 | [Lab06](Lab06/) | Máy vectơ hỗ trợ (SVM) | [x] | [x] | [x] | [ ] | [x] |
 | 7 | [Lab07](Lab07/) | Đánh giá mô hình | [x] | [x] | [x] | [ ] | [x] |
 | 8 | [Lab08](Lab08/) | Phân cụm K-Means | [x] | [x] | [x] | [ ] | [x] |
 | 9 | [Lab09](Lab09/) | Mạng nơ-ron nhiều lớp (MLP) | [x] | [x] | [x] | [ ] | [x] |
